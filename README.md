@@ -17,7 +17,7 @@ If you want it added to ESX Shops. Execute this SQL.
 INSERT INTO `shops` (name, item, price) VALUES
 	('TwentyFourSeven','drill',1000),
 	('RobsLiquor','drill',1000),
-	('LTDgasoline','drill',1000),
+	('LTDgasoline','drill',1000)
 ;
 
 ```
